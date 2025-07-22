@@ -68,7 +68,7 @@ following command in the terminal
 This docker file runs with airflow standalone which means
 that you will get an admin user called admin and a password
 in the logs when you run it. You can use this to log into
-localhost:3000 to view your dags and run history and trigger
+localhost:8080 to view your dags and run history and trigger
 runs automatically. For now I have not activated the
 schedule which means that you need to trigger it manually to
 run. If you trigger the schedule it will run at 7 utc each
