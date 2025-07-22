@@ -95,6 +95,5 @@ morning.
 ├── entrypoint.sh                   -- Defines start script simply uv run airflow standalone, but nice to have if there is a need for several commands from the start.
 ├── pyproject.toml                  -- UV description of dependencies etc
 ├── README.md                       -- Describes purpose of repo and how to run
-├── tests                           -- Contains pytest tests for dagster code
 └── uv.lock                         
 ```
